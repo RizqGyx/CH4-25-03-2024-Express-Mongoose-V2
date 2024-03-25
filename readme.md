@@ -51,5 +51,3 @@ npm start clear-data
 ```
 
 # CH4-25-03-2024-Express-Mongoose-V2
-# CH4-25-03-2024-Express-Mongoose-V2
-# CH4-25-03-2024-Express-Mongoose-V2
