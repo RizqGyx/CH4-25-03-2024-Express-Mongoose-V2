@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "660195a43108e82483970a93",
+    "name": "Talley Robinson",
+    "email": "talleyrobinson@tersanki.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-3.jpg",
+    "password": ""
+  },
+  {
+    "_id": "660195a440e172849243187e",
+    "name": "Georgia Bolton",
+    "email": "georgiabolton@tersanki.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-4.jpg",
+    "password": ""
+  },
+  {
+    "_id": "660195a48927b03f20aaa811",
+    "name": "Bowen Vaughan",
+    "email": "bowenvaughan@tersanki.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-4.jpg",
+    "password": ""
+  },
+  {
+    "_id": "660195a4fec0678342088eba",
+    "name": "Jami Sampson",
+    "email": "jamampson@tersanki.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-2.jpg",
+    "password": ""
+  },
+  {
+    "_id": "660195a4972069a48c0070fa",
+    "name": "Bradford Suarez",
+    "email": "bradfordsuarez@tersanki.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-5.jpg",
+    "password": ""
+  },
+  {
+    "_id": "660195a486e66538736ef63b",
+    "name": "Annabelle Cook",
+    "email": "annabellecook@tersanki.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-2.jpg",
+    "password": ""
+  },
+  {
+    "_id": "660195a46d3a546828bf5d8a",
+    "name": "Johanna Perez",
+    "email": "johannaperez@tersanki.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-1.jpg",
+    "password": ""
+  }
+]
